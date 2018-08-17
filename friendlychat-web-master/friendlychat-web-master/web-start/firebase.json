@@ -14,5 +14,11 @@
         "value" : "max-age=0"
       } ]
     }]
+  },
+  "database": {
+    "rules": "database-rules.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
   }
 }
